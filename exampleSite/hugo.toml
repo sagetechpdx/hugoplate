@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://sagetech-hugoplate.netlify.app/"
+baseURL = "https://sagetech.support"
 # Title of your website (required).
 title = "Sage Tech | Computer Repair and Tech Support in Portland, Oregon"
 # Your theme name
