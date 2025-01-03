@@ -29,21 +29,27 @@ features:
 
   - title: "Why Choose Sage Tech?"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Sage Tech has a sterling reputation in the Portland area. See what separates us from the rest:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Perfect ⭐⭐⭐⭐⭐ rating on Google and Yelp"
+	  - "We will come directly to your home or business"
+	  - "No upfront cost - you only pay after we fix your problem"
+	  - "10% senior discount"
+	  - "1-year warranty for all services"
+	  - "Both on-site and remote support for your convenience"
+	  - "CompTIA and Microsoft certified"
+	  - "Over 10 years of IT experience"
+	
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Get Support Now"
+      link: "/contact"
 
-  - title: "Why Choose Sage Tech?"
+  - title: "Services We Offer"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "At Sage Tech, we offer a wide range of services to take care of all our customers' devices:"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
+      - "###Computer Diagnostics and Repair###: Comprehensive computer diagnostics to identify and repair issues such as slow performance, error messages, and hardware malfunctions. Whether it’s a desktop or laptop, our experts troubleshoot and fix problems to get your device running smoothly again."
       - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
       - "Use any front-end library or framework, or build custom components, for any project size."
       - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
