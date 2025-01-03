@@ -17,28 +17,33 @@ name = "Services Offered"
 
 [[main]]
 parent = "Services Offered"
-name = "Blog"
-url = "/blog"
+name = "Virus and Malware Removal"
+url = "/virusremoval"
 
 [[main]]
 parent = "Services Offered"
-name = "Contact"
-url = "/contact"
+name = "Data Recovery"
+url = "/datarecovery"
 
 [[main]]
 parent = "Services Offered"
-name = "Authors"
-url = "/authors"
+name = "Hardware Upgrades and Replacement"
+url = "/hardware"
 
 [[main]]
 parent = "Services Offered"
-name = "Categories"
-url = "/categories"
+name = "Software Installation and Troubleshooting"
+url = "/software"
 
 [[main]]
 parent = "Services Offered"
-name = "404 Page"
-url = "/404"
+name = "Networking Setup and Support"
+url = "/networking"
+
+[[main]]
+parent = "Services Offered"
+name = "Custom-Built Computers"
+url = "/custombuilt"
 
 [[main]]
 name = "Remote Support"
