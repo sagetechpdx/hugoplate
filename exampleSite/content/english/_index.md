@@ -31,14 +31,14 @@ features:
     image: "/images/service-2.png"
     content: "Sage Tech has a sterling reputation in the Portland area. See what separates us from the rest:"
     bulletpoints:
-      - "Perfect rating on Google and Yelp"
-	  - "We will come directly to your home or business"
-	  - "No upfront cost - you only pay after we fix your problem"
-	  - "10% senior discount"
-	  - "1-year warranty for all services"
-	  - "Both on-site and remote support for your convenience"
-	  - "CompTIA and Microsoft certified"
-	  - "Over 10 years of IT experience"
+      - "Perfect ⭐⭐⭐⭐⭐ rating on Google and Yelp"
+      - "We will come directly to your home or business"
+      - "No upfront cost - you only pay after we fix your problem"
+      - "10% senior discount"
+      - "1-year warranty for all services"
+      - "Both on-site and remote support for your convenience"
+      - "CompTIA and Microsoft certified"
+      - "Over 10 years of IT experience"
 	
     button:
       enable: true
