@@ -12,39 +12,58 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
-weight = 3
-
-[[main]]
 weight = 4
-name = "Pages"
+name = "Services Offered"
 
 [[main]]
-parent = "Pages"
+parent = "Services Offered"
 name = "Blog"
 url = "/blog"
 
 [[main]]
-parent = "Pages"
+parent = "Services Offered"
 name = "Contact"
 url = "/contact"
 
 [[main]]
-parent = "Pages"
+parent = "Services Offered"
 name = "Authors"
 url = "/authors"
 
 [[main]]
-parent = "Pages"
+parent = "Services Offered"
 name = "Categories"
 url = "/categories"
 
 [[main]]
-parent = "Pages"
+parent = "Services Offered"
 name = "404 Page"
 url = "/404"
 
+[[main]]
+name = "Remote Support"
+url = "/remote"
+weight = 5
+
+[[main]]
+name = "Service Area"
+url = "/servicearea"
+weight = 6
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 7
+
+[[main]]
+name = "Pricing"
+url = "/pricing"
+weight = 8
+
+[[main]]
+name = "Testimonials"
+url = "/testimonials"
+weight = 9
 
 # footer menu
 [[footer]]
@@ -52,12 +71,28 @@ name = "About"
 url = "/about"
 weight = 1
 
-[[footer]]
-name = "Elements"
-url = "/elements"
-weight = 2
 
 [[footer]]
 name = "Privacy Policy"
 url = "/privacy-policy"
-weight = 3
+weight = 9
+
+[[main]]
+name = "Remote Support"
+url = "/remote"
+weight = 5
+
+[[main]]
+name = "Service Area"
+url = "/servicearea"
+weight = 6
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 7
+
+[[main]]
+name = "Pricing"
+url = "/pricing"
+weight = 8

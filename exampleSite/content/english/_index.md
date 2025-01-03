@@ -1,17 +1,18 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Sage Tech: wise computer repair and technical support serving the Portland, Oregon metro area"
+  content: "Transparency and honesty are at the heart of what we do. From the initial quote to the final fix, we ensure our clients know exactly what to expect with no hidden costs or surprises. Our straightforward approach has earned us a reputation for reliability and trustworthiness, making us the go-to choice for residential and small business customers alike.
+"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Request a Quote Now"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Services That We Offer"
     image: "/images/service-1.png"
     content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
     bulletpoints:
@@ -26,7 +27,7 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Why Choose Sage Tech?"
     image: "/images/service-2.png"
     content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
@@ -38,7 +39,7 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Why Choose Sage Tech?"
     image: "/images/service-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
