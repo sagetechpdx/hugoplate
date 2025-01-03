@@ -48,7 +48,7 @@ features:
     image: "/images/service-3.png"
     content: "At Sage Tech, we offer a wide range of services to take care of all our customers' devices:"
     bulletpoints:
-      - "###Computer Diagnostics and Repair###: Comprehensive computer diagnostics to identify and repair issues such as slow performance, error messages, and hardware malfunctions. Whether it’s a desktop or laptop, our experts troubleshoot and fix problems to get your device running smoothly again."
+      - "Computer Diagnostics and Repair: Comprehensive computer diagnostics to identify and repair issues such as slow performance, error messages, and hardware malfunctions. Whether it’s a desktop or laptop, our experts troubleshoot and fix problems to get your device running smoothly again."
 	  - "Virus and Malware Removal: Eliminate viruses, malware, spyware, and ransomware that compromise your system’s security and performance. We also provide antivirus installation and advice on best practices to protect your devices."
 	  - "Data Recovery Services: Recover lost or accidentally deleted files from hard drives, SSDs, USB drives, and other storage devices. We specialize in retrieving data from corrupted or damaged hardware."
 	  - "Hardware Upgrades and Replacement: Boost your computer’s performance with hardware upgrades like adding RAM, replacing a hard drive with an SSD, or upgrading your graphics card. We also perform repairs or replacements for damaged components."
